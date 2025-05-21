@@ -80,7 +80,7 @@ print("Notícias inseridas com sucesso no banco de dados!")
 
 
 
-# Loops de páginas, desconsiderar
+# Loops de páginas (desconsiderar)
 # def obter_noticias():
 #     newsapi = NewsApiClient(api_key=API_KEY)
 #     all_articles = []
